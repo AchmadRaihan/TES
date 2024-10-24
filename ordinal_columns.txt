@@ -1,0 +1,1 @@
+["Parental_Involvement", "Access_to_Resources", "Motivation_Level", "Family_Income", "Teacher_Quality", "Parental_Education_Level", "Distance_from_Home"]
